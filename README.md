@@ -1,2 +1,1 @@
-# C-Memory-Allocator
-Programmed a custom memory allocator in C that replicates malloc and free functions
+Assignment specifications: https://cse29sp24.github.io/docs/pas/pa5.html
